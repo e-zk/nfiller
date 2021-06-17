@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
         "heyyy can you do me a favour?",
         "yea exactly",
         "yo",
-        "Bruh he said that?",
+        "Bruh",
         "amongus? xp",
         "yeah thanks!",
         "brb talk later",
