@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NFiller</string>
+    <string name="menu_about">About</string>
+    <string name="fill_button">Fill Notifications</string>
+    <string name="clear_button">Clear All</string>
+    <string name="number_label">Notifications to show</string>
+    <string name="intro_text">Android keeps a log of a previous number of notifications. AOSP saves the last 100 or so notifications to the log. Use this app to fill the log with garbage.</string>
+    <string name="notif_channel_id">TestID</string>
+    <string name="notif_channel_name">Messages</string>
+    <string name="notif_title">New Message</string>
+</resources>
